@@ -1,5 +1,14 @@
 # [QuEST](https://quest.qtechtheory.org)
 
+## Notes before everything
+This repo is forked only for the TOSA team of ASC 20-21. The repo has been rolled back to version 2.1.0 because of the requirement from the ASC preliminary. No warranty is granted for this repository. 
+
+## TODO List for Our Team  
+1. Find a best compiling profile for the given testbench (Intel Xeon Gold, NVIDIA Tesla V100). 
+2. Read the codes given and find the functions-calling relationship. 
+3. Optimizing - CUDA, OpenMP & MPI, which should we lay our emphasis in.
+4. __DEADLINE__: 2021-01-08
+
 ## Introduction
 
 The **Quantum Exact Simulation Toolkit** is a high performance simulator of universal quantum circuits, state-vectors and density matrices. QuEST is written in C, hybridises OpenMP and MPI, and can run on a GPU. Needing only compilation, QuEST is easy to run both on laptops and supercomputers (in both C and C++), where it can take advantage of multicore, GPU-accelerated and networked machines to quickly simulate circuits on many qubits.
