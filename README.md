@@ -1,7 +1,8 @@
 # [QuEST](https://quest.qtechtheory.org)
 
 ## Notes before everything
-This repo is forked only for the TOSA team of ASC 20-21. The repo has been rolled back to version 2.1.0 because of the requirement from the ASC preliminary. No warranty is granted for this repository. 
+This repo is forked only for the TOSA team of ASC 20-21. The repo has been rolled back to version 2.1.0 because of the requirement from the ASC preliminary. No warranty is granted for this repository.    
+Copyright of all file in the folder 'benchmark' belongs to ASC Committee. These files are here only to build the workflow.  
 
 ## TODO List for Our Team  
 1. Find a best compiling profile for the given testbench (Intel Xeon Gold, NVIDIA Tesla V100). 
